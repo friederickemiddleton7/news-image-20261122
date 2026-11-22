@@ -1,0 +1,4 @@
+# Local harness metadata, never part of the entry.
+.makefun/
+__pycache__/
+*.pyc
